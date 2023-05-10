@@ -143,6 +143,6 @@
 
 <script>
 export default {
-  name: 'AppAuth'
+  name: 'Auth'
 }
 </script>
